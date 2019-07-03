@@ -13,6 +13,7 @@
 		091277D422BE6E0B009A71BF /* DemoGestures.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 091277D222BE6E0B009A71BF /* DemoGestures.xcdatamodeld */; };
 		091277D622BE6E0C009A71BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 091277D522BE6E0C009A71BF /* Assets.xcassets */; };
 		091277D922BE6E0C009A71BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 091277D722BE6E0C009A71BF /* LaunchScreen.storyboard */; };
+		091277E322BE6EAA009A71BF /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091277E222BE6EAA009A71BF /* CustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		091277D522BE6E0C009A71BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		091277D822BE6E0C009A71BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		091277DA22BE6E0C009A71BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		091277E222BE6EAA009A71BF /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				091277D722BE6E0C009A71BF /* LaunchScreen.storyboard */,
 				091277DA22BE6E0C009A71BF /* Info.plist */,
 				091277D222BE6E0B009A71BF /* DemoGestures.xcdatamodeld */,
+				091277E222BE6EAA009A71BF /* CustomView.swift */,
 			);
 			path = DemoGestures;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				091277CE22BE6E0B009A71BF /* ViewController.swift in Sources */,
+				091277E322BE6EAA009A71BF /* CustomView.swift in Sources */,
 				091277CC22BE6E0B009A71BF /* AppDelegate.swift in Sources */,
 				091277D422BE6E0B009A71BF /* DemoGestures.xcdatamodeld in Sources */,
 			);
